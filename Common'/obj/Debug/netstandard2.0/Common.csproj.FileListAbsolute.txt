@@ -1,0 +1,9 @@
+D:\C#练习\Loan management\Common'\bin\Debug\netstandard2.0\Common.deps.json
+D:\C#练习\Loan management\Common'\bin\Debug\netstandard2.0\Common.dll
+D:\C#练习\Loan management\Common'\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+D:\C#练习\Loan management\Common'\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+D:\C#练习\Loan management\Common'\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+D:\C#练习\Loan management\Common'\bin\Debug\netstandard2.0\Common.pdb
+D:\C#练习\Loan management\Common'\obj\Debug\netstandard2.0\Common.dll
+D:\C#练习\Loan management\Common'\obj\Debug\netstandard2.0\Common.pdb
+D:\C#练习\Loan management\Common'\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache

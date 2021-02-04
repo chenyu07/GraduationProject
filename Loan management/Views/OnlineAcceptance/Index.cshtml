@@ -1,0 +1,235 @@
+﻿@{
+    Layout = null;
+}
+
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+    <link href="https://cdn.bootcss.com/bootstrap-datetimepicker/4.17.47/css/bootstrap-datetimepicker.min.css" rel="stylesheet">
+
+    <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+    <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment-with-locales.js"></script>
+    <script src="https://cdn.bootcss.com/bootstrap-datetimepicker/4.17.47/js/bootstrap-datetimepicker.min.js"></script>
+    <link href="~/css/bootstrap-table.css" rel="stylesheet" />
+    <script src="~/js/bootstrap-table.js"></script>
+    <script src="~/js/bootstrap-table-zh-CN.js"></script>
+</head>
+<body>
+    <div class="header">
+
+    </div>
+    <div class="header-left">
+        <span>四川・达州|银税互动服务平台</span>
+    </div>
+    <div class="header-right">
+        <input id="userName" type="text" value="欢迎您,陈宇" style="background-color: transparent;color:white;font-size:20px;border:0;width:140px" />
+    </div>
+    <img src="~/img/tc.png" style="margin-top:-20px;margin-left:1630px" />
+    <div class="left-font"><font>当前位置:&nbsp;&nbsp;</font><a>首页&nbsp;&nbsp;</a><font>>&nbsp;&nbsp;&nbsp;线上受理</font></div>
+    <div class="panel panel-default" style="width:2050px;margin-left:20px">
+        <div class="panel panel-body" style="width:2050px;margin-left:20px">
+            <form class="form-horizontal form-bordered">
+                <div class="panel-body">
+                    <div class="form-group">
+                        <label class="col-sm-1">编号</label>
+                        <div class="col-sm-2">
+                            <input type="text" id="Id" class="form-control" title="请输入编号" placeholder="请输入编号" required />
+                        </div>
+                        <label class="col-sm-1">企业名称</label>
+                        <div class="col-sm-2">
+                            <input type="text" id="Ana_Name" class="form-control" title="请输入企业名称" placeholder="请输入企业名称" required />
+                        </div>
+                        <label class="col-sm-1">社会信用代码</label>
+                        <div class="col-sm-2">
+                            <input type="text" id="Ana_Name" class="form-control" title="请输入社会信用代码" placeholder="请输入社会信用代码" required />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-1">产品名称</label>
+                        <div class="col-sm-2">
+                            <input type="text" id="Ana_Id" class="form-control" title="请输入产品名称" placeholder="请输入产品名称" required />
+                        </div>
+                        <label class="col-sm-1">申请日期起</label>
+                        <div class='col-sm-2'>
+                            <div class='input-group date' id='datetimepicker1'>
+                                <input type='text' class="form-control" />
+                                <span class="input-group-addon">
+                                    <span class="glyphicon glyphicon-calendar"></span>
+                                </span>
+                            </div>
+                        </div>
+                        <label class="col-sm-1">申请日期止</label>
+                        <div class='col-sm-2'>
+                            <div class='input-group date' id='datetimepicker1'>
+                                <input type='text' class="form-control" />
+                                <span class="input-group-addon">
+                                    <span class="glyphicon glyphicon-calendar"></span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-2">
+                            <button type="button" class="mb-xs mt-xs mr-xs btn btn-primary" onclick="Query()">查询</button>
+                            <button type="button" class="mb-xs mt-xs mr-xs btn btn-primary" onclick="Refresh()">重置</button>&nbsp;&nbsp;
+                        </div>
+                    </div>
+                </div>
+
+            </form>
+        </div>
+    </div>
+    <div class="panel panel-default" style="width:2050px;margin-left:20px">
+         <div class="panel-body">
+                @* <table class="table table-bordered table-striped table-hover mb-none" id="datatable-default"> *@
+                <table class="table table-bordered table-striped table-hover mb-none" id="tableL01">
+                    @*<thead>
+                            <tr>
+                                <th>变量编号</th>
+                                <th>变量名称</th>
+                                <th>变量值</th>
+                                <th>分厂名称</th>
+                                <th>更新时间</th>
+                                <th>下行地址</th>
+                                <th>数据</th>
+                                <th>终端编号</th>
+                                <th>上行地址</th>
+                                <th>协议</th>
+                                <th>模拟量字节长度</th>
+                                <th>采集周期（毫秒）</th>
+                                <th>变量说明</th>
+                                <th>createTime</th>
+                                <th>createState</th>
+                                <th>DataTypeId</th>
+                                <th>ana_CalculateRule</th>
+                                <th>模拟量数据类型</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        </tbody>*@
+                </table>
+         </div>
+    </div>
+</body>
+
+</html>
+<style>
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        margin: 0;
+        background-color: rgba(241, 245, 246, 1);
+    }
+
+    .header {
+        background-color: rgba(12, 41, 71, 1);
+        opacity: 1;
+        text-align: center;
+        padding: 40px;
+    }
+
+    .header-left {
+        margin-top: -55px;
+        margin-left: 180px;
+        font-size: 30px;
+        color: white;
+    }
+
+    .header-right {
+        margin-top: -32px;
+        margin-left: 1500px;
+        font-size: 20px;
+        color: white;
+        width: 140px;
+    }
+
+    .left-font {
+        font-size: 20px;
+        margin-top: 60px;
+        margin-left: 60px;
+    }
+</style>
+<script type="text/javascript">
+    $(function () {
+        $('#datetimepicker1').datetimepicker({
+            format: 'YYYY-MM-DD',
+            locale: moment.locale('zh-cn')
+        });
+        $('#datetimepicker2').datetimepicker({
+            format: 'YYYY-MM-DD hh:mm',
+            locale: moment.locale('zh-cn')
+        });
+        var tableColumns = [
+            { field: 'name', title: '名称', sortable: true },
+            { field: 'number', title: '编号', sortable: true },
+            { field: 'classes', title: '类型', sortable: true },
+            { field: 'standard', title: '规格', sortable: true },
+            { field: 'managestaff', title: '专管员', sortable: true },
+            { field: 'remark', title: '备注', sortable: true }
+        ];
+        var data1 = [
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+            { name: "aaaa", number: 1111, classes: "aklfdja", standard: "bbbb", managestaff: "ccccc", remark: "ddddd" },
+        ];
+        $('#tableL01').bootstrapTable('destroy');   //动态加载表格之前，先销毁表格
+
+        $('#tableL01').bootstrapTable({//表格初始化
+            columns: tableColumns,  //表头
+            data: data1, //通过ajax返回的数据
+            width: 300,
+            height: 268,
+            method: 'get',
+            pageSize: 3,
+            pageNumber: 1,
+            pageList: [],
+            cache: false,
+            striped: true,
+            pagination: true,
+            sidePagination: 'client',
+            search: false,
+            showRefresh: false,
+            showExport: false,
+            showFooter: true,
+            // exportTypes: ['csv', 'txt', 'xml'],
+            clickToSelect: true,
+        });
+    });
+    
+</script>
+

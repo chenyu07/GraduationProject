@@ -1,0 +1,158 @@
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\appsettings.json
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Loan management.exe
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Loan management.deps.json
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Loan management.runtimeconfig.json
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Loan management.runtimeconfig.dev.json
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Loan management.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Loan management.pdb
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Loan management.Views.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Loan management.Views.pdb
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Common.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Common.pdb
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\Loan management.csprojAssemblyReference.cache
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\Loan management.AssemblyInfoInputs.cache
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\Loan management.AssemblyInfo.cs
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\Loan management.RazorAssemblyInfo.cache
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\Loan management.RazorAssemblyInfo.cs
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\Loan management.TagHelpers.input.cache
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\Loan management.TagHelpers.output.cache
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\Loan management.RazorCoreGenerate.cache
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\Loan management.RazorTargetAssemblyInfo.cache
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\Loan management.RazorTargetAssemblyInfo.cs
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\Loan management.Views.pdb
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\Loan management.csproj.CopyComplete
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\staticwebassets\Loan management.StaticWebAssets.Manifest.cache
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\staticwebassets\Loan management.StaticWebAssets.xml
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\Loan management.dll
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\Loan management.pdb
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\Loan management.genruntimeconfig.cache
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\Razor\Views\Login\View.cshtml.g.cs
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\Razor\Views\Main\Index.cshtml.g.cs
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\Razor\Views\OnlineAcceptance\Index.cshtml.g.cs
+D:\C#练习\Loan management\Loan management\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index1.cshtml.g.cs
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\C#练习\Loan management\Loan management\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
